@@ -19,6 +19,8 @@ import org.mockito.ArgumentCaptor;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
+import se.spade.domain.RestClient;
+
 public class ApacheRestClientTest {
 	
 	@Mock
