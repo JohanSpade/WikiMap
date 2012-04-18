@@ -9,6 +9,8 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.BasicResponseHandler;
 import org.apache.http.impl.client.DefaultHttpClient;
 
+import se.spade.domain.RestClient;
+
 public class ApacheRestClient implements RestClient{
 
 	private final HttpClient httpClient;

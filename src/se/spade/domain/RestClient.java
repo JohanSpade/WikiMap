@@ -1,4 +1,4 @@
-package se.spade.infrastructure;
+package se.spade.domain;
 
 import java.io.IOException;
 import java.net.URL;
